@@ -16,11 +16,11 @@
 
 👤 **Author1**
 
-- GitHub: [@mrbhi]
+- GitHub: [@mrbhi](https://github.com/mrbhi/)
 
 👤 **Author2**
 
-- GitHub: [@IgwaguNzubechukwuEsther]
+- GitHub: [@IgwaguNzubechukwuEsther](https://github.com/IgwaguNzubechukwuEsther)
 
 ## 🤝 Contributing
 
